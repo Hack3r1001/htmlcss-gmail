@@ -1,0 +1,35 @@
+
+body{
+  background-image: url("../img/gmail.jpg");
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+.padding{
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.head img{
+  height: 100px;
+  vertical-align: bottom;
+}
+.head h3{
+  display: inline;
+}
+h3{
+  color: white;
+}
+#radius{
+  border-radius: 50%;
+  background-color:  orange;
+  padding: 3px;
+}
+.text{
+  color: lightgray;
+}
+.mail{
+  background-color: darkgray	;
+  border: 1px solid;
+}
+.mail:hover{
+  background-color: white;
+}
